@@ -2,7 +2,7 @@
 |-----------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|-------------|----------------|
 | Preventing Secrets in Code                                      | [Link](https://semgrep.dev/blog/2023/preventing-secrets-in-code/)                                      |             |                |
 | 4,500 of the Top 1 Million Websites Leaked Source Code, Secrets | [Link](https://trufflesecurity.com/blog/4500-of-the-top-1-million-websites-leaked-source-code-secrets) |             |                |
-|                                                                 |                                                                                                        |             |                |
+| Signing & Validating API Requests                               | [Link](https://www.linkedin.com/pulse/signing-validating-api-requests-jeremiah-talamantes/)            |             |                |
 |                                                                 |                                                                                                        |             |                |
 |                                                                 |                                                                                                        |             |                |
 |                                                                 |                                                                                                        |             |                |
